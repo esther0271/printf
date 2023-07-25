@@ -1,6 +1,5 @@
 #include "main.h"
 
-Define the buffer size as a constant
 #define BUFF_SIZE
 
 Function prototypes
